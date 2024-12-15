@@ -1,0 +1,23 @@
+{
+  "name": "ajs-npm-libraly",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiotobat/ajs-npm-libraly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiotobat/ajs-npm-libraly/issues"
+  },
+  "homepage": "https://github.com/kiotobat/ajs-npm-libraly#readme",
+  "description": "",
+  "dependencies": {
+    "@kiotobat/ajs": "^1.0.0"
+  }
+}
